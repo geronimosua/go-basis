@@ -1,11 +1,9 @@
 package main
 
-import (
-	// "github.com/geronimosua/go-basis/excercises-ninja-one"
-	// "github.com/geronimosua/go-basis/modules"
-	// "github.com/geronimosua/go-basis/ninjatwo"
-	"github.com/geronimosua/go-basis/ninjathree"
-)
+// "github.com/geronimosua/go-basis/excercises-ninja-one"
+// "github.com/geronimosua/go-basis/modules"
+// "github.com/geronimosua/go-basis/ninjatwo"
+// "github.com/geronimosua/go-basis/ninjafour"
 
 func main() {
 	// greet := modules.SayingHello()
@@ -13,5 +11,6 @@ func main() {
 
 	// excercises.Excercises()
 	// ninjatwo.NinjaTwo()
-ninjathree.Ninjathree()
+	// ninjathree.Ninjathree()	
+	// ninjafour.NinjaFour()
 }
